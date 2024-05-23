@@ -1,3 +1,6 @@
+# Christian R
+# 5/22/24 Period: 2 
+# Take home exam
 def print_menu():
     # write something here to welcome user
     print("Welcome to the droid menu")
